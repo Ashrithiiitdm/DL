@@ -1,0 +1,56 @@
+Computer Networks:
+Connecting two nodes using Ethernet cable and study the performance evaluation
+parameters such as delay, effective bandwidth - Basic Networking commands – Ping,
+IPConfig, Traceroute, NSlookup - Introduction to Socket Programming. File transfer using
+TCP. Echo, Chat between two or more clients using socket programming - Simulation of
+Stop and Wait Protocol - Simulation of Stop and Wait protocol with NACK, Modelling of
+ACK, NACK drops, etc., -Modelling and simulation of Sliding window protocol - Sliding
+window protocol with ACK/NACK drops, frame drops etc., - Performance evaluation
+through simulation of IEEE 802.3/802.5 networks - Implementation of OSPF. Introduction
+to NS2/OPNET simulator, Case studies.
+
+Compiler Design:
+
+Lexical analyser implementation in C ‐ Lexical analyser implementation using
+LEX tool Recursive descent parser implementation in C for an expression
+grammar ‐ YACC and LEX based implementation for an expressions grammar
+‐ YACC implementation of a calculator that takes an expression with digits, +
+and * and computes and prints its value ‐ Front end implementation of a compiler
+that generates the three address code for a simple language‐ Back end
+implementation of a compiler which takes the three address code (output of
+previous exercise) and results in assembly language instructions ‐
+Implementation of peephole optimization in C.
+
+Deep Learning:
+
+Introduction- to Neural Network (Recap), Gradient Descent, Linear Classifiers-
+Perceptron, Multilayer Perceptron, Delta Rule [4]
+
+Deep Artificial Neural Networks- Back Propagation Learning, Gradient Descent –
+Stochastic, Batch and Mini-Batch, Activation Functions- RelU, Leaky RelU, Loss
+Functions [4]
+
+Optimization Techniques – Momentum, Nesterov, AdaGrad, RMSProp, AdaDelta, Adam,
+AdaMax, Nadam, AMSGrad, etc. Training tricks in Deep Models - Regularization, Early
+stopping, Dropout, Data Augmentation, Normalization- Batch, Layer, Instance, and Group
+[7]
+
+Deep Convolutional Neural Network- Convolution, pooling, Popular CNN models-
+AlexNet, VGG16, GoogleNet, and Transfer Learning, Recent Trends in Deep Learning
+Architectures, Skip Connection Network, Residual Network (ResNet) [9]
+
+Deep Sequential Modeling -Recurrent Neural Network (RNN), LSTM Networks,
+Applications [3]
+
+Classical Supervised Tasks with Deep Learning: Image Denoising, Semantic
+segmentation, Instance Segmentation, Object Detection, and Classification –YOLO [4]
+
+Unsupervised Learning with Deep Network: Auto encoders, Variational Auto encoder [4]
+
+Deep Generative Modelling - Generative Adversarial Network, Applications of Deep
+Learning to Computer Vision, NLP and Medical Data Analysis [6]
+
+Practice: Evaluation Metrics- Confusion Matrix, Sensitivity, Specificity, Dice Score,
+Precision, Recall, Hausdorff Distance and Other popular metrics, K-fold Cross Validation-
+Stratification [4]
+
